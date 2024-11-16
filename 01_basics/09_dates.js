@@ -33,11 +33,4 @@ let myDate = new Date()
 // console.log(Math.floor(myDate.getTime()/1000));
 // console.log(myDate.getHours());
 
-// console.log(myDate.toLocaleString("default"));
-
-
-
-
-
-
-
+console.log(myDate.toLocaleString());
