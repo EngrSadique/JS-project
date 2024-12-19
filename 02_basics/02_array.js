@@ -19,7 +19,3 @@ console.log(Array.isArray("Ali"));
 
 console.log(Array.from("Siddique"));
 console.log(Array.of("Siddique", "Ali", "Usman"));
-
-
-
-
